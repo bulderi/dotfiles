@@ -10,16 +10,16 @@
 
 ## What is used
 
-**Wallpaper** is from the reddit user ![atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is ![here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
+- **Wallpaper** is from the reddit user ![atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is ![here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
 
-**Top bar** is a modified version of ![simple-bar](https://github.com/Jean-Tinland/simple-bar). My config is ![here]()
+- **Top bar** is a modified version of ![simple-bar](https://github.com/Jean-Tinland/simple-bar). My config is ![here]()
 
-**Startpage** used is a modified version of ![tea-green](https://github.com/sadparadiseinhell/tea-green). My config is ![here](https://github.com/xcvzn/Home-Page)
+- **Startpage** used is a modified version of ![tea-green](https://github.com/sadparadiseinhell/tea-green). My config is ![here](https://github.com/xcvzn/Home-Page)
 
-**Terminal** used is ![alacritty](https://github.com/alacritty/alacritty). My config is ![here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty)
+- **Terminal** used is ![alacritty](https://github.com/alacritty/alacritty). My config is ![here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty)
 
-**IDE** used is ![vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
-- ![Customize UI](https://github.com/iocave/customize-ui)
-- ![Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
-- ![Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
-- ![Vibrancy](https://github.com/EYHN/vscode-vibrancy)
+- **IDE** used is ![vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
+ -- ![Customize UI](https://github.com/iocave/customize-ui)0
+ -- ![Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
+ -- ![Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
+ -- ![Vibrancy](https://github.com/EYHN/vscode-vibrancy)
