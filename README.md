@@ -1,4 +1,4 @@
 # dotfiles
 my dotfiles
-![1](/Users/macbook/Documents/GitHub/dotfiles/pics/1.png)
-![2](/Users/macbook/Documents/GitHub/dotfiles/pics/2.png)
+![1](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/1.png)
+![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
