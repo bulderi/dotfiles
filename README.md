@@ -26,7 +26,7 @@ Dotfiles that are used on my macbook.
 
 - **Fetch** used is [neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
 
-- **Eye Candy** [cmatrix](https://github.com/abishekvashok/cmatrix)
+- **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix)
 
 - **IDE** used is [vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
     - [Customize UI](https://github.com/iocave/customize-ui)
