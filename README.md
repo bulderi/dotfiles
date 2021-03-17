@@ -24,6 +24,8 @@ Dotfiles that are used on my macbook.
 
 - **Terminal** used is [alacritty](https://github.com/alacritty/alacritty) with [powerlevel10k](https://github.com/romkatv/powerlevel10k). Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
 
+- **fetch** used is [neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch) 
+
 - **IDE** used is [vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
     - [Customize UI](https://github.com/iocave/customize-ui)
     - [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
