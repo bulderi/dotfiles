@@ -28,8 +28,8 @@ Dotfiles that are used on my macbook.
 
 - **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix)
 
-- **IDE** used is [vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
+- **IDE** used is [vscodium](https://github.com/VSCodium/vscodium) with [fira code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions used are:
     - [Customize UI](https://github.com/iocave/customize-ui)
-    - [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
+    - [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode)
     - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
-    - [Vibrancy](https://github.com/EYHN/vscode-vibrancy)
+    - [Vibrancy](https://github.com/EYHN/vscode-vibrancy) with type dark and opacity 0.8
