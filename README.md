@@ -18,7 +18,7 @@ Dotfiles that are used on my macbook.
 
 - **Wallpaper** is from the reddit user [atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
 
-- **Top bar** is a modified version of [simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here]()
+- **Top bar** is a modified version of [simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
 
 - **Startpage** used is a modified version of [tea-green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
 
