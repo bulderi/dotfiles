@@ -3,8 +3,8 @@ Dotfiles that are used on my macbook.
 
 ## Table of contents
 
-- ![Screenshots](https://github.com/xcvzn/dotfiles#screenshots)
-- ![What is used](https://github.com/xcvzn/dotfiles#what-is-used)
+- [Screenshots](#screenshots)
+- [What is used](#what-is-used)
 
 ## Screenshots
 
