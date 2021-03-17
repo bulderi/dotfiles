@@ -19,7 +19,7 @@
 - **Terminal** used is ![alacritty](https://github.com/alacritty/alacritty). My config is ![here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty)
 
 - **IDE** used is ![vscodium](https://github.com/VSCodium/vscodium) with the following extensions:
- -- ![Customize UI](https://github.com/iocave/customize-ui)0
- -- ![Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
- -- ![Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
- -- ![Vibrancy](https://github.com/EYHN/vscode-vibrancy)
+    - ![Customize UI](https://github.com/iocave/customize-ui)
+    - ![Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode)
+    - ![Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
+    - ![Vibrancy](https://github.com/EYHN/vscode-vibrancy)
