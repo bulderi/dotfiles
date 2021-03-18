@@ -1,6 +1,0 @@
-# Name: Thin backslash
-
-lookup backslash_thin {
-  ignore sub backslash.ss06 backslash';
-  sub backslash' by backslash.ss06;
-} backslash_thin;

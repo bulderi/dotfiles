@@ -1,9 +1,0 @@
-#!/bin/zsh -euo pipefail
-cd "`dirname $0`/.."
-
-./script/check_widths
-# ./script/build_ttf
-./script/build_variable
-./script/build_woff
-./script/build_woff2
-./script/package
