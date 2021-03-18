@@ -23,14 +23,11 @@ Dotfiles that are used on my macbook.
 
 - **Startpage** used is a modified version of [tea-green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
 
-- **Terminal** used is [alacritty](https://github.com/alacritty/alacritty) with [powerlevel10k](https://github.com/romkatv/powerlevel10k). Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
+- **Terminal** used is [alacritty](https://github.com/alacritty/alacritty) with [powerlevel10k](https://github.com/romkatv/powerlevel10k) and MesloLGS NF as font. Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
 
 - **Fetch** used is [neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
 
 - **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix)
 
-- **IDE** used is [vscodium](https://github.com/VSCodium/vscodium) with [fira code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions used are:
-    - [Customize UI](https://github.com/iocave/customize-ui)
-    - [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode)
-    - [Material Icon Theme](https://github.com/PKief/vscode-material-icon-theme)
-    - [Vibrancy](https://github.com/EYHN/vscode-vibrancy) with type dark and opacity 0.8
+- **IDE** used is [atom](https://github.com/atom/atom) with [fira code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions used are:
+    - [Gruvbox Syntax Theme for Atom 1.0](https://github.com/caleb/gruvbox-syntax-atom)
