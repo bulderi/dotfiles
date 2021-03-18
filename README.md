@@ -27,7 +27,7 @@ Dotfiles that are used on my macbook.
 
 - **Fetch** used is [neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
 
-- **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix)
+- **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix) and [pipes.rs](https://github.com/CookieCoder15/pipes-rs)
 
 - **IDE** used is [atom](https://github.com/atom/atom) with [fira code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions used are:
     - [Gruvbox Syntax Theme for Atom 1.0](https://github.com/caleb/gruvbox-syntax-atom)
