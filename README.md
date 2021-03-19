@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles and more used on my macbook.
+Dotfiles and more.
 
 ## Table of contents
 
