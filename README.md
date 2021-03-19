@@ -14,7 +14,6 @@ Dotfiles and more.
 
 ![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png)
 
-
 ## What is used
 
 - **Wallpaper**: By [Atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
@@ -32,7 +31,6 @@ Dotfiles and more.
 - **Spotify Theme**: [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish).
 
 - **Browser Mods**: [MaterialFox](https://github.com/muckSponge/MaterialFox) with gruvbox-dark-hard from [here](https://github.com/TeddyDD/firefox-base16). Requires [Firefox Color extension](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
-
 
 - **Startpage**: [Tea-Green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
 
