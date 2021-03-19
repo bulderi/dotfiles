@@ -14,6 +14,8 @@ Dotfiles that are used on my macbook.
 
 ![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png)
 
+![4](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/4.png)
+
 
 ## What is used
 
