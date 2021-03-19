@@ -8,13 +8,9 @@ Dotfiles and more.
 
 ## Screenshots
 
-![1](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/1.png)
+![1](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/1.png) ![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
 
-![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
-
-![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png)
-
-![4](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/4.png)
+![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png) ![4](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/4.png)
 
 
 ## What is used
