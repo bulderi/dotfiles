@@ -8,7 +8,7 @@ Dotfiles and more.
 
 ## Screenshots
 
-![4](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/4.png)
+![1](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
 
 ![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
 
