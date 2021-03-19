@@ -21,9 +21,9 @@ Dotfiles and more.
 
 - **Top bar**: [Simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
 
-- **Terminal**: [Alacritty](https://github.com/alacritty/alacritty) with [Powerlevel10k](https://github.com/romkatv/powerlevel10k) and MesloLGS NF as font. Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
+- **Terminal**: [iTerm](https://iterm2.com/) with [Powerlevel10k](https://github.com/romkatv/powerlevel10k) and MesloLGS NF as font. Configs are [here](https://github.com/xcvzn/dotfiles/blob/main/iterm-config.json) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
 
-- **Fetch**: [Neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
+- **Fetch**: [Neofetch](https://github.com/dylanaraps/neofetch). Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
 
 - **Eye Candy**: [Cmatrix](https://github.com/abishekvashok/cmatrix) and [Pipes.rs](https://github.com/CookieCoder15/pipes-rs)
 
