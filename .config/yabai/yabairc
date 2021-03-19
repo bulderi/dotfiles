@@ -49,7 +49,7 @@ killall limelight &>/dev/null
 limelight &>/dev/null &
 
 # should float any preferences window for any app
-yabai -m rule --add label="Preferences" app="Preferences$" manage=off 
+yabai -m rule --add label="Preferences" app="Preferences$" manage=off
 
 yabai -m rule --add app="^System Preferences$" sticky=on layer=above manage=off
 yabai -m rule --add app="^System Information$" sticky=on layer=above manage=off
@@ -58,6 +58,8 @@ yabai -m rule --add app="^Activity Monitor$" sticky=on layer=above manage=off
 yabai -m rule --add app="^Stats$" sticky=on layer=above manage=off
 yabai -m rule --add label="Calculator" app="^Calculator$" manage=off
 yabai -m rule --add label="App Store" app="^App Store$" manage=off
+yabai -m rule --add label="LuLu" app="^LuLu" manage=off
+yabai -m rule --add label="BlockBlock Helper" app="^BlockBlock Helper$" manage=off
 
 # Settings needed for simple-bar widget
 # Refresh spaces widget on space change
