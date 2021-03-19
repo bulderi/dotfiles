@@ -17,7 +17,7 @@ Dotfiles and more.
 
 ## What is used
 
-- **Wallpaper**: [Atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
+- **Wallpaper**: By [Atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
 
 - **Top bar**: [Simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
 
