@@ -2,7 +2,7 @@
 ctrl + alt + cmd - r : launchctl kickstart -k "gui/${UID}/homebrew.mxcl.yabai"
 
 # Open terminal
-cmd - return : open -n /Applications/Alacritty.app
+cmd - return : open -n /Applications/iTerm.app
 # Open Firefox
 cmd - b: open -na /Applications/Firefox.app
 
