@@ -33,7 +33,7 @@ Dotfiles and more used on my macbook.
 
 - **Spotify Theme**: [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish).
 
-- **Startpage** used is a modified version of [Tea-Green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
+- **Startpage**: [Tea-Green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
 
 - **IDE**: [Atom](https://github.com/atom/atom) with [Fira Code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions:
     - [Gruvbox Syntax Theme for Atom 1.0](https://github.com/caleb/gruvbox-syntax-atom)
