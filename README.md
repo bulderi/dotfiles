@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles that are used on my macbook.
+Dotfiles and more used on my macbook.
 
 ## Table of contents
 
@@ -19,17 +19,21 @@ Dotfiles that are used on my macbook.
 
 ## What is used
 
-- **Wallpaper** is from the reddit user [atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
+- **Wallpaper**: [Atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
 
-- **Top bar** is a modified version of [simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
+- **Top bar**: [Simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
 
-- **Startpage** used is a modified version of [tea-green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
+- **Terminal**: [Alacritty](https://github.com/alacritty/alacritty) with [Powerlevel10k](https://github.com/romkatv/powerlevel10k) and MesloLGS NF as font. Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
 
-- **Terminal** used is [alacritty](https://github.com/alacritty/alacritty) with [powerlevel10k](https://github.com/romkatv/powerlevel10k) and MesloLGS NF as font. Configs are [here](https://github.com/xcvzn/dotfiles/tree/main/.config/alacritty) and [here](https://github.com/xcvzn/dotfiles/blob/main/.p10k.zsh)
+- **Fetch**: [Neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
 
-- **Fetch** used is [neofetch](https://github.com/dylanaraps/neofetch) with custom ASCII art. Config is [here](https://github.com/xcvzn/dotfiles/tree/main/.config/neofetch)
+- **Eye Candy**: [Cmatrix](https://github.com/abishekvashok/cmatrix) and [Pipes.rs](https://github.com/CookieCoder15/pipes-rs)
 
-- **Eye Candy** used is [cmatrix](https://github.com/abishekvashok/cmatrix) and [pipes.rs](https://github.com/CookieCoder15/pipes-rs)
+- **Text Editor**: [Left](https://github.com/hundredrabbits/left).
 
-- **IDE** used is [atom](https://github.com/atom/atom) with [fira code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions used are:
+- **Spotify Theme**: [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish).
+
+- **Startpage** used is a modified version of [Tea-Green](https://github.com/sadparadiseinhell/tea-green). Config is [here](https://github.com/xcvzn/Home-Page)
+
+- **IDE**: [Atom](https://github.com/atom/atom) with [Fira Code](https://github.com/tonsky/FiraCode) and ligatures enabled. Extensions:
     - [Gruvbox Syntax Theme for Atom 1.0](https://github.com/caleb/gruvbox-syntax-atom)
