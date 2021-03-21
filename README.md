@@ -12,8 +12,6 @@ Dotfiles and more.
 
 ![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
 
-![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png)
-
 ## What is used
 
 - **Wallpaper**: By [Atlas-ark](https://www.reddit.com/user/atlas-ark/). The one I used is [here](https://github.com/xcvzn/dotfiles/tree/main/wallpapers)
