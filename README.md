@@ -12,8 +12,6 @@ Dotfiles and more.
 
 ![2](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/2.png)
 
-![3](https://raw.githubusercontent.com/xcvzn/dotfiles/main/screenshots/3.png)
-
 ## What is used
 
 - **Top bar**: [Simple-bar](https://github.com/Jean-Tinland/simple-bar). Config is [here](https://github.com/xcvzn/simple-bar)
